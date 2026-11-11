@@ -1,0 +1,20 @@
+<h1>🎮 MY GAMING WORLD</h1>
+<p>Welcome to my Gaming Website</p>
+
+<div class="game">
+  <h2>Free Fire</h2>
+  <img src="https://images.unsplash.com/photo-1542751371-adc38448a05e?w=600" alt="Gaming">
+  <p>Welcome Gamers!</p>
+  <a class="play-btn" href="https://ff.garena.com/" target="_blank">
+    PLAY NOW
+  </a>
+</div>
+
+<div class="game">
+  <h2>BGMI</h2>
+  <img src="https://images.unsplash.com/photo-1511512578047-dfb367046420?w=600" alt="Gaming">
+  <p>Let's Play!</p>
+  <a class="play-btn" href="https://www.battlegroundsmobileindia.com/" target="_blank">
+    PLAY NOW
+  </a>
+</div>
